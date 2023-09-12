@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Collection Dynamic Forms**
 
-- 🌱 I’m currently learning **Web3.js & Metamsk**
+- 🌱 I’m currently learning **Web3.js & Metamask**
 
 - 💬 Ask me about **React, Node.js, Next.js, Java**
 
